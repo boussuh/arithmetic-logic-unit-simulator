@@ -1,4 +1,4 @@
-# arithmetic-logic-unit-simulator
+# Arithmetic Logic Unit Simulator
 ## Author
 Bousso Seck  
 **Course:** CPE 301 – Embedded Systems Design  
