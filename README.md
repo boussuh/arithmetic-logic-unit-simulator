@@ -1,4 +1,4 @@
-# CPE301_FinalProject
+# arithmetic-logic-unit-simulator
 ## Author
 Bousso Seck  
 **Course:** CPE 301 – Embedded Systems Design  
