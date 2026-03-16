@@ -1,4 +1,4 @@
-# Arithmetic Logic Unit Simulator
+# Embedded Evaporative Cooling Controller (Arduino)
 ## Author
 Bousso Seck  
 **Course:** CPE 301 – Embedded Systems Design  
