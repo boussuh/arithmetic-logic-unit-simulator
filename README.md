@@ -1,7 +1,7 @@
 # Embedded Evaporative Cooling Controller (Arduino)
 ## Author
 Bousso Seck  
-**Course:** CPE 301 – Embedded Systems Design  
+**Course:** Embedded Systems Design  
 **University:** University of Nevada, Reno
 **Prject:**  Swamp Cooler (Evaporative Cooling System)
 
